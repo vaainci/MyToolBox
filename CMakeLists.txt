@@ -5,7 +5,9 @@ project(MyToolBox LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(MyToolBox main.cpp)
+add_executable(MyToolBox main.cpp
+    Commands/commands.h Commands/commands.cpp
+    install.sh)
 
 include(GNUInstallDirs)
 install(TARGETS MyToolBox
