@@ -34,7 +34,7 @@ sudo pacman -S base-devel cmake
 
 ```bash
 
-git clone [https://github.com/vaainci/MyToolBox.git](https://github.com/vaainci/MyToolBox.git)
+git clone https://github.com/vaainci/MyToolBox.git
 cd MyToolBox
 chmod +x install.sh
 ./install.sh
