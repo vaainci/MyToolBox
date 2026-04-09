@@ -1,9 +1,6 @@
 #ifndef COMMANDS_H
 #define COMMANDS_H
 
-#include <string>
-#include <iostream>
-
 class Commands
 {
 public:
