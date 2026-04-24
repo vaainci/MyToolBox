@@ -50,6 +50,5 @@ chmod +x install.sh
 | :--- | :--- | :--- | :--- |
 | `mtb` | `ip` | Shows Local IPv4 and Public IP | Color-coded (Green/Blue) |
 | `mtb` | `storage` | Monitors physical disks and partitions | Progress bars & Health Status |
-| `mtb` | `uptime` | Time elapsed since last boot | HH:MM format |
 | `mtb` | `--help` | Opens the interactive help menu | ASCII Art & Clickable Link |
 | `mtb` | `--version` | Displays the current build version | Semantic Versioning |
